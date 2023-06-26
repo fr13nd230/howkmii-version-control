@@ -1,0 +1,32 @@
+================================================================================================================================================================================================================
+
+Task's assignments:
+
+Warm Up: 
+
+	Make a mind map telling me what u understood from the lesson.
+
+Task (01):
+
+	-retry the ls command
+	-retry the cd command
+	-retry the rm command
+	-create a two files in one command using touch
+	-create a file by appending an empty string to it
+
+Task (02):
+
+	-create two different files ( one named tocopy.txt other named tomove.txt )
+	-append "Hello world" and "I love binary" sentences for both
+	-create two folders ( one named copy the other named move )
+	-copy "tocopy.txt" to the folder copy
+	-move "tomove.txt" to the folder move
+	-change directory to copy folder and print content of the copied file
+
+Challenges: 
+	Hint1 : you need to look deep than that!
+	Hint2 : isn't reading file like executing it?
+
+==============================================================================================================================================================================================================
+
+
