@@ -4,6 +4,7 @@ Task's assignments:
 
 Warm Up: 
 
+	Install git on your computer and send me a screenshot with your name and version of your git.
 	Make a mind map telling me what u understood from the lesson.
 
 Task (01):

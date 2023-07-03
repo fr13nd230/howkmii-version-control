@@ -1,0 +1,34 @@
+================================================================================================================================================================================================================
+
+Task's assignments:
+
+Warm Up: 
+
+	Make a your own command which has your name ( Exemple: instead of ls i'll see ahmed ) send a screenshot.
+	Make a mind map telling me what u understood from the lesson.
+
+Task (01):
+
+	-create a text file filled with some random text
+	-search for instances of a word
+	-use piping to search for what comes before/after that previous word
+	-list your files to see the given permissions
+	-change permissions to give [owner:full permission,group:read only, world:none]
+	-rechange permissions once again to give [owner:none, group and world: write only]
+	-for last time give all full permissions then delete your file.
+
+Task (02):
+
+	-create a folder named "tasktwo"
+	-initialize that folder as git repository
+	-create two text files and one javascript and log your name as a file with your name
+	-use command "git status" to see what changes are made
+	-use command "git add ."
+	-append a text to one of the files and re-use the command "git status"
+	-commit the changes by typing command "git commit -m <your message here>" 
+
+Challenges: 
+	Hint1 : accessing that not easy remember what you learned!
+	Hint2 : a binary can represent a word!
+
+==============================================================================================================================================================================================================
